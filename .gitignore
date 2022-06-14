@@ -1,0 +1,9 @@
+# styles
+design/
+style-guide.md
+
+# Mac files
+.DS_Store
+
+# Packages
+node_modules/
